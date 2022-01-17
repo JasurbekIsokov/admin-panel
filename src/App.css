@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app {
+  background-color: rgb(243, 243, 243);
+  height: 100vh;
+}
+.container-fuild {
+  width: 100%;
+  background-color: white;
+}
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+.blue {
+  color: #1890ff;
+}
+.mr-25 {
+  margin-right: 15px;
+}
+.mt-25 {
+  margin-top: 15px;
+}
+.mb-25 {
+  margin-bottom: 15px;
+}
+.m-25 {
+  margin: 15px 0;
+}
+
+.mt-25 {
+  margin-top: 10px;
+}
+.h-100vh {
+  height: 100vh;
+}
